@@ -1,0 +1,168 @@
+{
+  "Colliders": [
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 13, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 29, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 45, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 61, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 77, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 93, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 109, 208, 2 ]
+    },
+    {
+      "Object": "Ground",
+      "Dimensions": [ 0, 125, 208, 2 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 3, 13, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 51, 13, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 99, 13, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 147, 13, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 195, 13, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 27, 29, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 75, 29, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 123, 29, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 171, 29, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 3, 45, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 51, 45, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 99, 45, 10, 48 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 147, 45, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 195, 45, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 27, 61, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 75, 61, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 123, 61, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 171, 61, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 3, 77, 10, 48 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 51, 77, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 147, 77, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 195, 77, 10, 48 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 27, 93, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 75, 93, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 123, 93, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 171, 93, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 147, 109, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 51, 109, 10, 17 ]
+    },
+    {
+      "Object": "Ladder",
+      "Dimensions": [ 99, 109, 10, 17 ]
+    },
+    {
+      "Object": "Plate",
+      "Dimensions": [ 16, 199, 32, 1 ]
+    },
+    {
+      "Object": "Plate",
+      "Dimensions": [ 64, 199, 32, 1 ]
+    },
+    {
+      "Object": "Plate",
+      "Dimensions": [ 112, 199, 32, 1 ]
+    },
+    {
+      "Object": "Plate",
+      "Dimensions": [ 160, 199, 32, 1 ]
+    }
+  ]
+}

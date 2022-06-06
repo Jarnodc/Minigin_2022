@@ -1,0 +1,112 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 193,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 197,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 201,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 240,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 245,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "doc",
+			"destination" : "C:/Users/mjarn/Documents/School/ToolDev/c++ Assignment/Assignment/rapidjson-master/out/install/x64-Debug/share/doc/RapidJSON",
+			"paths" : 
+			[
+				"readme.md"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "dev",
+			"destination" : "C:/Users/mjarn/Documents/School/ToolDev/c++ Assignment/Assignment/rapidjson-master/out/install/x64-Debug/include",
+			"paths" : 
+			[
+				"include/rapidjson"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "examples",
+			"destination" : "C:/Users/mjarn/Documents/School/ToolDev/c++ Assignment/Assignment/rapidjson-master/out/install/x64-Debug/share/doc/RapidJSON/examples",
+			"paths" : 
+			[
+				{
+					"from" : "example",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/mjarn/Documents/School/ToolDev/c++ Assignment/Assignment/rapidjson-master/out/install/x64-Debug/lib/cmake/RapidJSON",
+			"paths" : 
+			[
+				"out/build/x64-Debug/CMakeFiles/RapidJSONConfig.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "dev",
+			"destination" : "C:/Users/mjarn/Documents/School/ToolDev/c++ Assignment/Assignment/rapidjson-master/out/install/x64-Debug/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/RapidJSONConfig.cmake",
+				"out/build/x64-Debug/RapidJSONConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}
